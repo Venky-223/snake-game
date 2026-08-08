@@ -1,1 +1,1 @@
-# sbake-game
+# snake-game
