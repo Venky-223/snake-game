@@ -13,6 +13,6 @@ COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY snake_game_v3.py .
+COPY snake-game-v3.py .
 
 CMD ["python", "snake_game_v3.py"]
